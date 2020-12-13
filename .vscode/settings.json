@@ -1,4 +1,4 @@
 {
-  "python.pythonPath": "C:\\Users\\jaydee\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+  "python.pythonPath": "/usr/local/bin/python3",
   "editor.tabSize": 4
 }
