@@ -9,3 +9,6 @@
 
 ## 3. Array, Dictionary + Conditional, repetitive statement
 배열과 `Dictionary`, 그리고 반복문과 조건문을 사용한 예제들입니다. `/003` 디렉토리 내의 예제들을 참고합니다.
+
+## 4. Array, Dictionary (advanced)
+`Array`, `Dictionary` 그리고 반복문과 조건문을 사용한 또 다른 예제들입니다. `/004` 디렉토리 내의 예제들을 참고하도록 합니다.
